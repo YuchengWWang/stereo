@@ -93,4 +93,5 @@ cd ..
 python ./cloud_viz.py
 ```
 
-<source src="./pointcloud.gif">
+![img](./pointcloud.gif)
+
