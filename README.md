@@ -1,4 +1,4 @@
-# [Calibration and Stereo mapping]
+# [Stereo calibration and mapping]
 
 Code for entire stereo calibration and mapping process: 
 - Calibration (intrinsic, extrinsic)
