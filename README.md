@@ -9,27 +9,11 @@ Code for entire stereo calibration and mapping process:
 - Point cloud
 
 # Demo
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-        <img src="./left_demo.jpg" alt="left" style="width: 100%;">
-        <p><b>original left</b></p>
-    </div>
-    <div style="text-align: center;">
-        <img src="./right_demo.jpg" alt="right" style="width: 100%;">
-        <p><b>original right</b></p>
-    </div>
-</div>
+- <p><b>left and right image<b><p>
+<img src="./left_demo.jpg" alt="left" style="width: 45%;">          <img src="./right_demo.jpg" alt="right" style="width: 45%;">
+- <p><b>disparity and depth map<b><p>
+<img src="./disparity.jpg" alt="disparity" style="width: 45%;">          <img src="./depth.jpg" alt="depth" style="width: 45%;">
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="text-align: center;">
-        <img src="./disparity.jpg" alt="disparity" style="width: 100%;">
-        <p><b>disparity map</b></p>
-    </div>
-    <div style="text-align: center;">
-        <img src="./depth.jpg" alt="depth" style="width: 100%;">
-        <p><b>depth map</b></p>
-    </div>
-</div>
 ## 🛠️ Build
 
 ```
