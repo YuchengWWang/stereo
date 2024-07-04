@@ -14,9 +14,15 @@ Code for entire stereo calibration and mapping process:
 - <p><b>disparity and depth map<b><p>
 <img src="./disparity.jpg" alt="disparity" style="width: 45%;">          <img src="./depth.jpg" alt="depth" style="width: 45%;">
 
-## 🛠️ Build
+## 🛠️ Preparation
 
 ```
+mkdir -p images/oringin_left
+mkdir -p images/oringin_right
+mkdir -p image_undistort/left_image_undistort
+mkdir -p image_undistort/right_image_undistort
+mkdir calib_images_left
+mkdir calib_images_right
 mkdir build
 cd build
 cmake ..
