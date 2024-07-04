@@ -93,6 +93,4 @@ cd ..
 python ./cloud_viz.py
 ```
 
-<video width="640" height="480" controls>
-  <source src="./pointcloud.webm" type="video/webm">
-</video>
+<source src="./pointcloud.gif">
